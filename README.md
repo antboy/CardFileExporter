@@ -18,4 +18,4 @@ The SHA-256 hash of the file is:
 
 Run the .exe, click the Browse button to select the cardfile to export, then press Export to XML.  The output file will be produced in the same directory as the input cardfile and will have the same file name but with an .xml extension.  This is confirmed in the status bar at the bottom of the app.
 
-![example](\doc\use.png)
+![example](doc/use.png)
